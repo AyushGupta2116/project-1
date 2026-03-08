@@ -111,7 +111,7 @@ const COUNTRIES = [
   {
     code:"US", name:"United States", flag:"🇺🇸", region:"Americas",
     youtubers:[
-      { name:"MrBeast (Jimmy Donaldson)", tier:"Mega", subs:"250M", niche:"Entertainment & Stunts", yt:"https://www.youtube.com/@MrBeast", avatar:"MB", color:"#1D4ED8",
+      { name:"MrBeast (Jimmy Donaldson)", tier:"Mega", subs:"300M", niche:"Entertainment & Stunts", yt:"https://www.youtube.com/@MrBeast", avatar:"MB", color:"#1D4ED8",
         brands:[
           { name:"Feastables", cat:"Food & Beverages", desc:"Better-for-you chocolate bars — MrBeast's snack empire", link:"https://feastables.com", cta:"Buy Chocolate", type:"Founder", year:2022 },
           { name:"MrBeast Burger", cat:"Food & Beverages", desc:"Virtual restaurant chain — smash burgers delivered nationwide", link:"https://mrbeastburger.com", cta:"Order Burger", type:"Founder", year:2020 },
